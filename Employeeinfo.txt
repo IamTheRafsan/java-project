@@ -1,0 +1,14 @@
+Belal
+111
+xyz
+zyx
+Computer Operator
+B.Sc
+30000
+Wahid
+222
+xyz
+zyx
+Peon
+SSC
+30000
