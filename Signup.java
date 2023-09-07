@@ -20,7 +20,7 @@ public class Signup extends JFrame implements ActionListener, MouseListener {
 	User useri[];
 
 	public Signup() {
-		super("Sign up");
+		super("Sign UP");
 		this.setSize(765, 490);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
